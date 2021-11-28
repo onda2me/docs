@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Docsy Jekyll Theme
+title: Onda2me! Welcome to Coding
 permalink: /
 ---
 
