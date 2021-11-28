@@ -1,0 +1,26 @@
+
+     
+- title: Scratch
+  url: scratch
+  links:
+    - title: "Getting started"
+      url: "scratch/begin"
+      children:   
+      - title: "코딩과 프로그래밍"
+        url: "scratch/begin"         
+      - title: "시작하기"
+        url: "scratch/begin01"
+      - title: "응용하기"
+        url: "scratch/begin02"
+    - title: "사고력키우기"
+      url: "scratch/thinking"      
+      children:
+        - title: 01.상수와 변수
+          url: "scratch/thinking"
+        - title: 02.기수법과 진법
+          url: "scratch/thinking02"
+
+
+
+
+

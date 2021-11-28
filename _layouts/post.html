@@ -1,0 +1,13 @@
+---
+layout: default_noside
+---
+<!-- Copyright 2019-2021 Vanessa Sochat-->
+<h1 style="margin-bottom:0px">{{ page.title }}</h1>
+{% if page.badges %}{% for badge in page.badges %}<span class="badge badge-{{ badge.type }}">{{ badge.tag }}</span>{% endfor %}{% endif %}
+<span class="post-date" style="font-style: italic;">{{ page.date | date: "%B %d, %Y" }}</span>
+<span>layout::post.html</span>
+{{ content }}
+{% include toc.html %}
+{% include permalinks.html %}
+{% include tags.html %}
+

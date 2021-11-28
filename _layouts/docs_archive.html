@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="section-index">
+    <hr class="panel-line">
+    {% for post in site.scratch reversed  %}        
+    <div class="entry">
+    <h5><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>{% if post.description %}
+    <p>{{ post.description }}</p>{% endif %}
+    </div>{% endfor %}
+</div>
+
+{% include toc.html %}
+{% include permalinks.html %}
+
+<!--  include tags.html -->
