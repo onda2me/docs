@@ -10,4 +10,4 @@ tags:
 프로그램과 코딩, 프로그래밍 언어, 알고리즘에 대해 알아보자.
 
  
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSg7-Rj3Vweqt3HldR5gTkKB7TeA08ZuRSdVu7npcGZgn5HVNEywxPVOeRXNWKlz8Kw0Q_lqOk1IZtU/embed?start=false&loop=false&delayms=10000" frameborder="0" width="1200" height="750" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSg7-Rj3Vweqt3HldR5gTkKB7TeA08ZuRSdVu7npcGZgn5HVNEywxPVOeRXNWKlz8Kw0Q_lqOk1IZtU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1100" height="680" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
