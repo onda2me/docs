@@ -33,8 +33,11 @@ permalink: /scratch/thinking
 
 
 ## 2.프로그램 구현하기  
+[예제보기](https://scratch.mit.edu/projects/607776859/){: .btn .btn-primary target="_blank" }    
+    
+    
 ![]({{ site.baseurl }}/assets/images/scratch/begin_data02.png){: .img-thumbnail }
-[예제보기](https://scratch.mit.edu/projects/607776859/editor){: .btn .btn-primary target="_blank" }
+
 
 
 
