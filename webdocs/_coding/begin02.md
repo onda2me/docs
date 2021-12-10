@@ -1,5 +1,5 @@
 ---
-title: Begin Scratch - 응용
+title: Begin Scratch - 활용
 permalink: /coding/begin02
 tags: 
  - coding
