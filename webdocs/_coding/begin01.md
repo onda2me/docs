@@ -1,6 +1,6 @@
 ---
 title: Begin Scratch - 시작
-permalink: /scratch/begin01
+permalink: /coding/begin01
 tags: 
  - coding
  - scratch

@@ -76,7 +76,7 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path
-  scratch:
+  coding:
     output: true
     permalink: /:collection/:path    
   blog:
@@ -93,7 +93,7 @@ defaults:
       sidebar: true
   - scope:
       path: ""
-      type: "scratch"
+      type: "coding"
     values:
       layout: docs
       sidebar: true

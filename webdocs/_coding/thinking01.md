@@ -1,6 +1,6 @@
 ---
 title: 사고력 키우기 01 - 상수와 변수를 이용한 프로그램
-permalink: /scratch/thinking
+permalink: /coding/thinking
 ---
 
 #### 상수와 변수를 이용하여 프로그램을 만들어 보자.    

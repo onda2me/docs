@@ -1,6 +1,6 @@
 ---
 title: Begin Scratch - 응용
-permalink: /scratch/begin02
+permalink: /coding/begin02
 tags: 
  - coding
  - scratch

@@ -1,7 +1,7 @@
 ---
 layout: docs_archive
-title: Documentation for Scratch
-permalink: /scratch/
+title: Documentation for Coding
+permalink: /coding
 ---
 
 # 프로그래밍 시작하기

@@ -1,6 +1,6 @@
 ---
 title: Begin Scratch - 코딩과 프로그래밍
-permalink: /scratch/begin
+permalink: /coding/begin
 tags: 
  - coding
  - scratch
