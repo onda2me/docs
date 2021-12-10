@@ -3,8 +3,6 @@ layout: docs
 title: Onda2me! Welcome to Coding
 permalink: /
 ---
-
-
 # 코딩과 프로그래밍
 
 코딩과 알고리즘을 쉽게 이해할 수 있도록 스크래치 기반의 프로그래밍 예제 위주로 작성된 문서입니다.    

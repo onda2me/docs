@@ -30,10 +30,10 @@ url: "https://onda2me.github.io/" # the base hostname & protocol for your site
 blog_url: "https://onda2me.github.io/"
 
 # Social (First three Required)
-repo: "https://github.com/onda2me/"
+repo: "https://github.com/onda2me"
 github_user: "onda2me"
 github_repo: "docs"
-github_branch: "master"
+github_branch: "main"
 
 # Optional
 twitter: #onda2me

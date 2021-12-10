@@ -14,8 +14,8 @@
           <div class="d-none d-xl-block col-xl-2 td-toc d-print-none">
               <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
                   {% include editable.html %}
-              </div>
-              <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg"></div>
+              </div><!--
+              <div class="kt-separator kt-separator--border-dashed kt-separator--space-lg"></div>-->
               <nav id="TableOfContents"><ul>
               <li><ul id="TOC">
                 <!-- Links will be appended here-->
@@ -23,9 +23,10 @@
               </ul></nav>
           </div>
           <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
+            {% assign crumbs = page.url | append: "/"  | replace: '//', '/' | split: '/' %}
+            {% if crumbs %}
             <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
-              <ol class="breadcrumb spb-1">
-              {% assign crumbs = page.url | append: "/"  | replace: '//', '/' | split: '/' %}
+              <ol class="breadcrumb spb-1">              
               {% for crumb in crumbs offset: 1 %}{% if crumb != "index" %}{% if forloop.last %}
                 <li class="breadcrumb-item active" aria-current="page">
                   <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
@@ -36,6 +37,7 @@
                 {% endif %}{% endfor %}
               </ol>
            </nav>
+           {% endif %}
            <div class="td-content">
               {{ content }}	
               {% if section.links %}
