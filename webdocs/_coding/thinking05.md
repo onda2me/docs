@@ -1,83 +1,38 @@
 ---
 title: 사고력 키우기 05 - 조건문
 ---
+# 조건문
+>> 조건문은 주어진 조건식의 결과가 참/거짓인지에 따라 다른 명령을 수행하는 명령문이다.    
 
-### 순차와 반복구조에 대해서 알아보자.    
+## 단일 조건문 (만약/아니면)
+![]({{ site.baseurl }}/assets/images/scratch/if_02.png){: .img-thumbnail }
 
->> 순차구조는 이름 그대로 순서에 따라 차례대로 처리하는 구조이다.     
->> 반복구조는 동일한 일을 계속 반복하여 처리하는 구조이다.
-
-## 순차구조의 예    
->> 순서에 따라 차례대로 처리하는 구조
-
-+ **무지개색의 순서**   
-> **빨강 -> 주황 -> 노랑 -> 초록 -> 파랑 -> 남색 -> 보라** 의 순서대로 색이 있다.    
-> 위의 순서가 바뀌거나 다른 색이 포함되면 무지개색이 아니다.    
-
-+ **일주일 요일의 순서**
-> **월요일 -> 화요일 -> 수요일 -> 목요일 -> 금요일 -> 토요일 -> 일요일** 의 순서대로 요일이 정해진다.    
-> 위의 순서가 바뀌면 일주일 요일이 아니다.    
-
-+ **수업시간 표**    
-> **1교시 영어 -> 2교시 수학 -> 3교시 미술 -> 4교시 체육**{: .text-dark}   
-
-![]({{ site.baseurl }}/assets/images/scratch/order_rainbow.png){: style="height:450px" .img-thumbnail }
-![]({{ site.baseurl }}/assets/images/scratch/order_week.png){: style="height:450px" .img-thumbnail }
-
-## 선택구조의 예    
->> 조건에 따라 처리하는 내용이 달라지는 구조
-
-+ 4교시는 만약 비가 오면 음악수업을 하고, 비가 오지 않으면 체육수업을 한다.
-+ 아침에 일찍 일어나면 학교에 천천히 걸어가고, 늦게 일어나면 뛰어간다.
-
-## 반복구조의 예
->> 동일한 일을 계속 반복하여 처리하는 구조
-
-+ 시계의 추처럼 왼쪽, 오른쪽, 왼쪽, 오른쪽 . . .  계속 왔다 갔다 하기    
-+ 위의 일주일(월, 화, 수, 목, 금, 토, 일)이 계속 반복되는 것    
-+ 요일별 수업시간표    
+## 다중 조건문 
+![]({{ site.baseurl }}/assets/images/scratch/ifelse_04.png){: .img-thumbnail }
 
 
-## 순차와 선택이 포함된 구조의 예
->> 순차적으로 수업을 진행하다가 4교시에 조건(비가 오는지 여부)에 따라 수업과목이 달라진다.    
+# 성적 말하기
+>> 점수에 따라 성적을 알려준다.    
 
-![]({{ site.baseurl }}/assets/images/scratch/order_classes.png){: .img-thumbnail }
-
-# 무지개 만들기
-![]({{ site.baseurl }}/assets/images/scratch/order_01.png){: .img-thumbnail }
+![]({{ site.baseurl }}/assets/images/scratch/ifelse_05.png){: style="height:350px" .img-thumbnail }
 
 ## 1.알고리즘 생각하기
 ```
-무지개색의 순서 : 빨강 -> 주황 -> 노랑 -> 초록 -> 파랑 -> 남색 -> 보라
-
-1. 무지개를 그릴 시작위치로 이동하기 (-200, -40) 
-2. 펜 굵기 정하기 (20, 30, 40 등.. )
-3. 펜 내리기
-4. 펜 색깔을 빨강으로 정하기
-5. 펜 움직이기 (100, 200 등 .. )
-6. 다음색 시작위치로 이동하기 (-200, -20)
-7. 펜 색깔을 주황으로 정하기
-8. 펜 움직이기 (100, 200 등.. )
-9. 다음색 위치로 이동하기 (-200, 0) 
-
-... 이하 생략 ...
+1. 점수를 입력한다.
+2. 입력받은 점수( 90 / 80/ 70 / 그외 )에 따라 성적을 알려준다.
 ```
 
 ## 2.프로그램 구현하기
 
-[예제보기](https://scratch.mit.edu/projects/619083044/){: .btn .btn-primary target="_blank" }    
-+ 공버튼    
-![]({{ site.baseurl }}/assets/images/scratch/order_02.png){: .img-thumbnail }
-    
+[예제보기](https://scratch.mit.edu/projects/617364331/){: .btn .btn-primary target="_blank" }    
+
 
 ## 3.도전하기
-
-![]({{ site.baseurl }}/assets/images/scratch/order_03.gif){: .img-thumbnail }    
-    
-
 ```
-1. 변수 리스트를 이용하여 일주일의 요일을 하나씩 말해주는 프로그램을 만들어 보자.
-2. 월~일요일 까지 계속 반복되므로 반복구조를 이용하여 만들어 보자.
+1. 변수 리스트를 이용하여 성적표를 만들어 보자.
+2. 여러명의 점수목록을 변수 리스트로 만들어 보자
+2. 점수에 따라 성적목록을 변수 리스트로 만들어 보자.
 ```
 
-    
+<iframe src="https://scratch.mit.edu/projects/617918416/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>  
+

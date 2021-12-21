@@ -20,7 +20,8 @@
     url: "/coding/thinking03"
   - title: 04.순차와 반복구조
     url: "/coding/thinking04"
-       
+  - title: 05.조건문
+    url: "/coding/thinking05"
 - title: scratch.mit
   external_url: https://scratch.mit.edu/
 
