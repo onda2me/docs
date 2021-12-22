@@ -37,6 +37,7 @@ github_branch: "main"
 twitter: #onda2me
 linkedin: #onda2me
 dockerhub: #onda2me
+scratch: https://scratch.mit.edu/users/onda2me/
 
 # Should there be feedback buttons at the bottom of pages?
 feedback: true

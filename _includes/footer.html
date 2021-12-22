@@ -21,16 +21,19 @@
       </div>
       <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
         <ul class="list-inline mb-0">  
-          {% if site.blog_url %}
+          <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="GitHub" data-original-title="GitHub">
+            <a class="text-white" target="_blank" href="{{ site.repo }}">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
           <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="Homepage" data-original-title="Homepage">
             <a class="text-white" target="_blank" href="{{ site.blog_url }}">
               <img src="{{ site.baseurl }}/{{ site.logo }}" alt="logo" width="25px;" />
             </a>
           </li>
-          {% endif %}
-          <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="GitHub" data-original-title="GitHub">
-            <a class="text-white" target="_blank" href="{{ site.repo }}">
-              <i class="fab fa-github"></i>
+          <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="" aria-label="Scratch" data-original-title="Scratch">
+            <a class="text-white" target="_blank" href="{{ site.scratch }}">
+              <img src="{{ site.baseurl }}/assets/img/scratch_logo.png" alt="logo" width="25px;" />
             </a>
           </li>
         </ul>
