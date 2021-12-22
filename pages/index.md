@@ -37,7 +37,7 @@ permalink: /
 이 문서를 통해 소프트웨어를 쉽게 익히길 바랍니다.    
     
 
-## 4. 스크래치로 만든 게임
+## 스크래치로 만든 게임 맛보기
 
 ###  + 점프게임 - 스페이스바 [소스보기](https://scratch.mit.edu/projects/608097887/editor){: .btn .btn-primary target="_blank"}  
 <iframe src="https://scratch.mit.edu/projects/608097887/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
