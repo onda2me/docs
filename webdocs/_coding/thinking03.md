@@ -28,12 +28,15 @@ title: 사고력 키우기 03 - 이진법을 이용한 암호만들기
 암호만들기 순서 : 2진수 숫자 -> 10진수 숫자 -> 알파벳    
 
 1. 공을 이용해 2진수를 만들기
-2. 2진수를 10진수로 변환하여 암호리스트에 저장하기
-3. 암호보기를 클릭하면 암호리스트에 저장된 숫자를 문자로 보여주기
+2. 2진수를 10진수로 변환하여 10진수 변수에 저장하기
+3. 10진수 숫자를 문자로 변환하여 보여주기
 ```
 
-![]({{ site.baseurl }}/assets/images/scratch/begin_data21.png){: .img-thumbnail }
+![]({{ site.baseurl }}/assets/images/scratch/begin_data20.png){: .img-thumbnail }
 
+>> 실행해보기    
+
+<iframe src="https://scratch.mit.edu/projects/619908484/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ## 1.알고리즘 생각하기
 
@@ -42,14 +45,14 @@ title: 사고력 키우기 03 - 이진법을 이용한 암호만들기
 2. 5자리 2진수 위치에 맞게 공을 배치한다. 
 3. 각 자리수에 해당하는 숫자를 저장할 변수를 만든다. (2진수 5자리 = 5개의 변수)
 4. 10진수를 저장할 변수를 만든다. (2진수 5자리 숫자 -> 10진수 1개의 숫자로 변환)
-5. 10진수에 해당하는 알파벳을 보여준다. (알파벳 4개 = 변수 4개)
+5. 10진수에 해당하는 알파벳을 보여준다. 
 
 Hint: 공의 자리수 = 공의 번호 = 5개변수 번호를 통일하면 알고리즘 과정이 쉽다.
 ```
 
 ## 2.프로그램 구현하기
 
-[예제보기](https://scratch.mit.edu/projects/609105285/){: .btn .btn-primary target="_blank" }
+[예제보기](https://scratch.mit.edu/projects/619908484/){: .btn .btn-primary target="_blank" }
 [공 스프라이트 다운로드](/docs/assets/file/sprite/Ball1.sprite3){: .btn .btn-primary target="_blank" }
 [알파벳 스프라이트 다운로드](/docs/assets/file/sprite/Glow-A.sprite3){: .btn .btn-primary target="_blank" }
 
@@ -68,7 +71,7 @@ Hint: 공의 자리수 = 공의 번호 = 5개변수 번호를 통일하면 알�
 ## 3.도전하기
 ```
 1. 이 프로그램과 반대로 알파벳 문자를 10진수로 변환 해보자.
-2. 10진수를 2진수로 변환해 보자
+2. 2개이상의 알파벳으로 구성된 단어를 보여주도록 해보자
 ```
-
+<iframe src="https://scratch.mit.edu/projects/609105285/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
     
