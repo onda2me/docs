@@ -1,9 +1,9 @@
 <header>
-  <nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+  <nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar" >
     <a class="navbar-brand" href="{{ site.baseurl }}/">
-      <span class="navbar-logo pr-2"><img src="{{ site.baseurl }}/{{ site.logo }}" alt="logo" class="mb-2"/></span><!-- {include logo.svg } --><span class="h2 font-weight-bold">{{ site.title }}</span>
+      <span class="navbar-logo pr-2"><img src="{{ site.baseurl }}/{{ site.logo }}" alt="logo" class="mb-1"/></span><!-- {include logo.svg } --><span class="h3 font-weight-bold">{{ site.title }}</span>
     </a>
-    <div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+    <div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar" >
       <ul class="navbar-nav mt-2 mt-lg-0">{% for link in site.data.navigation %}
         <li class="nav-item mr-4 mb-2 mb-lg-0">
           <a class="nav-link" href="{% if link.url %}{{ site.baseurl }}{{ link.url }}{% else %}{{ link.external_url }}{% endif %}"{% if link.external_url %} target="_blank"{% endif %} ><span>{{ link.title }}</span></a>
@@ -16,10 +16,10 @@
         </li> {% endif %} 
       </ul>
     </div>
-	<div class="navbar-nav d-none d-lg-block">
+	<div class="navbar-nav d-none d-lg-block" >
     <input type="search" class="form-control td-search-input" placeholder="&#xf002 Search this site…" aria-label="Search this site…" autocomplete="off">
   </div>
-  <div class="navbar-nav d-none d-lg-block">
+  <div class="navbar-nav d-none d-lg-block" >
         <a class="gh-source" data-gh-source="github" href="{{ site.repo }}" title="Go to repository" data-md-state="done">
         <div class="gh-source__repository">
           <i class="fab fa fa-github fa-2x" style='padding-right:20px; float:left; margin-top:5px'></i>

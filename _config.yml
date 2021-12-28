@@ -77,7 +77,10 @@ collections:
     permalink: /:collection/:path
   coding:
     output: true
-    permalink: /:collection/:path    
+    permalink: /:collection/:path  
+  arduino:
+    output: true
+    permalink: /:collection/:path   
   blog:
     output: true
     permalink: /:collection/:path  
@@ -96,6 +99,12 @@ defaults:
     values:
       layout: docs
       sidebar: true
+  - scope:
+      path: ""
+      type: "arduino"
+    values:
+      layout: docs
+      sidebar: true      
   - scope:
       path: ""
       type: "blog"

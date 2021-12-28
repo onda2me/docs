@@ -5,17 +5,25 @@
       <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
       </button>
   </form>  
-  
+
+  {% capture pageUrl %} 
+  {{ page.url | replace: "/", "" }} 
+  {% endcapture %}
+
+  {% if page.url contains "arduino" %}
+  {% assign side_bar = site.data.side-arduino %}
+  {% else %}
+  {% assign side_bar = site.data.side-coding %}
+  {% endif %}
+
   <nav class="collapse td-sidebar-nav pt-2 pl-4" id="td-section-nav">
-    {% for section in site.data.toc %}
+
+    {% for section in side_bar %}
       <ul class="td-sidebar-nav__section pr-md-3">
         {% capture sectionUrl %} 
           {{ section.url | replace: "/", "" }} 
         {% endcapture %}
-        {% capture pageUrl %} 
-          {{ page.url | replace: "/", "" }} 
-        {% endcapture %}
-        
+
         <li class="td-sidebar-nav__section-title " >
           <a  href="{% if section.url %}{{ site.baseurl }}{{ section.url }}{% else %}{{ section.external_url }}{% endif %}"           
             {% if section.external_url %} target="_blank"{% endif %} 
