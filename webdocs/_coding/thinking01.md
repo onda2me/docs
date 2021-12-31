@@ -52,4 +52,4 @@ permalink: /coding/thinking
 hint: 원의 넓이 구하는 공식(반지름x반지름x3.14)
 ```
 
-
+<iframe src="https://scratch.mit.edu/projects/607776859/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>

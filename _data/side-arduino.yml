@@ -9,7 +9,7 @@
     url: "/arduino/begin03"
 
 - title: "예제"
-  url: "/arduino/level1"
+  url: "/arduino/level1_led1"
   links:   
   - title: "LED 깜박이기"
     url: "/arduino/level1_led1"
