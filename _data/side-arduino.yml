@@ -7,8 +7,14 @@
     url: "/arduino/begin02"      
   - title: "개발환경 설정하기"
     url: "/arduino/begin03"
+
+- title: "예제"
+  url: "/arduino/level1"
+  links:   
   - title: "LED 깜박이기"
-    url: "/arduino/level1"
+    url: "/arduino/level1_led1"
+  - title: "LED 3색 신호등"
+    url: "/arduino/level1_led3"    
   
 
 

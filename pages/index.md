@@ -5,9 +5,10 @@ permalink: /
 ---
 # 코딩과 프로그래밍
 
-코딩과 알고리즘을 쉽게 이해할 수 있도록 스크래치 기반의 프로그래밍 예제 위주로 작성된 문서입니다.    
+이 문서는 코딩과 알고리즘을 쉽게 이해할 수 있도록 스크래치 기반의 프로그래밍 예제 위주로 작성되었습니다.    
 
-이 문서는 다음과 같은 단계로 구성하였습니다.    
+
+하나씩 따라하면서 익힐 수 있도록 다음과 같은 단계로 구성하였습니다.    
 
 ## 1. 코딩과 알고리즘 소개
 
@@ -33,7 +34,7 @@ permalink: /
     
     
     
-이 외에 내용은 계속 추가 될 예정입니다.     
+예제 및 내용은 계속 추가 될 예정입니다.     
 이 문서를 통해 소프트웨어를 쉽게 익히길 바랍니다.    
     
 
@@ -48,4 +49,5 @@ permalink: /
 ###  + 핑퐁게임 - 좌우화살표 [소스보기](https://scratch.mit.edu/projects/601945728/editor){: .btn .btn-primary target="_blank"}
 <iframe src="https://scratch.mit.edu/projects/601945728/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-
+###  + Tunnel Rider - 좌우화살표 [소스보기](https://scratch.mit.edu/projects/48077906/){: .btn .btn-primary target="_blank"}
+<iframe src="https://scratch.mit.edu/projects/48077906/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>

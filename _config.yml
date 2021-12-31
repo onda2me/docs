@@ -29,6 +29,9 @@ blog_url: "https://onda2me.github.io/"
 
 # Social (First three Required)
 repo: "https://github.com/onda2me"
+repo_od_raw: "https://raw.githubusercontent.com/onda2me/algorithm/main/src/com/onda2me/algorithm" # raw source url
+repo_ad_raw: "https://raw.githubusercontent.com/onda2me/arduino_s/master" # raw source url
+
 github_user: "onda2me"
 github_repo: "docs"
 github_branch: "main"

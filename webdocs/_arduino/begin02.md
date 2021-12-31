@@ -1,5 +1,5 @@
 ---
-title: Begin Arduino - 아두이노 프로그램 설치
+title: Begin Arduino - 아두이노 개발 프로그램 설치
 ---
 
 # 아두이노 개발 프로그램 설치    
