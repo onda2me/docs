@@ -40,14 +40,18 @@ permalink: /
 
 # 스크래치로 만든 게임 맛보기
 
-###  + 점프게임 - 스페이스바 [소스보기](https://scratch.mit.edu/projects/608097887/editor){: .btn .btn-primary target="_blank"}  
+##  + 점프게임 
+  - 스페이스바 [소스보기](https://scratch.mit.edu/projects/608097887/editor){: .btn .btn-primary target="_blank"}  
 <iframe src="https://scratch.mit.edu/projects/608097887/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-###  + 별잡기게임 - 마우스 [소스보기](https://scratch.mit.edu/projects/608038472/editor/){: .btn .btn-primary target="_blank"}
+##  + 별잡기게임 
+  - 마우스 [소스보기](https://scratch.mit.edu/projects/608038472/editor/){: .btn .btn-primary target="_blank"}
 <iframe src="https://scratch.mit.edu/projects/608038472/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-###  + 핑퐁게임 - 좌우화살표 [소스보기](https://scratch.mit.edu/projects/601945728/editor){: .btn .btn-primary target="_blank"}
+##  + 핑퐁게임 
+  - 좌우화살표 [소스보기](https://scratch.mit.edu/projects/601945728/editor){: .btn .btn-primary target="_blank"}
 <iframe src="https://scratch.mit.edu/projects/601945728/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-###  + Tunnel Rider - 좌우화살표 [소스보기](https://scratch.mit.edu/projects/48077906/){: .btn .btn-primary target="_blank"}
+##  + Tunnel Rider 
+  - 좌우화살표 [소스보기](https://scratch.mit.edu/projects/48077906/){: .btn .btn-primary target="_blank"}
 <iframe src="https://scratch.mit.edu/projects/48077906/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
