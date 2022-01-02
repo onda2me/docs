@@ -12,6 +12,13 @@ layout: code_import
 |우노보드 X 1개| LED X 3개 | 저항 X 3개|
 |![]({{ site.baseurl }}/assets/images/arduino/level1/uno.png) | ![]({{ site.baseurl }}/assets/images/arduino/level1/led3.png) | ![]({{ site.baseurl }}/assets/images/arduino/level1/res3.png)  |
 
+# 알고리즘 `| Algorithm`
+{: .alert .alert-info }
+
+빨간색 LED가 1초 켜졌다 꺼지면, 초록색 LED가 1초 켜졌다 꺼지고, 노란색 LED가 1초 켜졌다 꺼지기를 반복한다.    
+
++ 빨간색은 13번 핀, 초록색은 12번 핀, 노란색은 11번핀에 연결한다.
++ 회로는 전원 -> 저항 -> LED -> GND의 순서로 연결한다.
 
 # 회로도 `| Circuit diagram`
 {: .alert .alert-info }
@@ -23,7 +30,6 @@ layout: code_import
 # 코드 `| Code`
 {: .alert .alert-info }
    
-
 [GITHUB 소스보기]({{ site.repo_ad}}/s1/sketch_led1/sketch_led3.ino){: .btn .btn-primary target="_blank" }
 
 <pre id="show1" class="show-json-from-git">소스로딩 실패</pre>
