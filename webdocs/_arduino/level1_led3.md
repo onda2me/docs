@@ -22,6 +22,9 @@ layout: code_import
 
 # 코드 `| Code`
 {: .alert .alert-info }
+   
+
+[GITHUB 소스보기]({{ site.repo_ad}}/s1/sketch_led1/sketch_led3.ino){: .btn .btn-primary target="_blank" }
 
 <pre id="show1" class="show-json-from-git">소스로딩 실패</pre>
 <script>showJsonFromGit('{{ site.repo_ad_raw }}/s1/sketch_led3/sketch_led3.ino', 'show1', '500px');</script>

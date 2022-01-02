@@ -14,7 +14,9 @@
   - title: "LED 깜박이기"
     url: "/arduino/level1_led1"
   - title: "LED 3색 신호등"
-    url: "/arduino/level1_led3"    
+    url: "/arduino/level1_led3"   
+  - title: "LED 밝기 조절"
+    url: "/arduino/level1_dimming"  
   
 
 
