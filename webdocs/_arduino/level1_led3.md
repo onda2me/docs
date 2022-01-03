@@ -7,28 +7,28 @@ layout: code_import
 
 
 # 준비물 `| Preparations`
-{: .alert .alert-info }
+{: .alert .alert-success }
 
 |우노보드 X 1개| LED X 3개 | 저항 X 3개|
 |![]({{ site.baseurl }}/assets/images/arduino/level1/uno.png) | ![]({{ site.baseurl }}/assets/images/arduino/level1/led3.png) | ![]({{ site.baseurl }}/assets/images/arduino/level1/res3.png)  |
 
 # 알고리즘 `| Algorithm`
-{: .alert .alert-info }
+{: .alert .alert-success }
 
 빨간색 LED가 1초 켜졌다 꺼지면, 초록색 LED가 1초 켜졌다 꺼지고, 노란색 LED가 1초 켜졌다 꺼지기를 반복한다.    
 
-+ 빨간색은 13번 핀, 초록색은 12번 핀, 노란색은 11번핀에 연결한다.
++ 빨간색은 13번 디지탈핀, 초록색은 12번 디지탈핀, 노란색은 11번 디지탈핀에 연결한다.
 + 회로는 전원 -> 저항 -> LED -> GND의 순서로 연결한다.
 
 # 회로도 `| Circuit diagram`
-{: .alert .alert-info }
+{: .alert .alert-success }
 
 ![]({{ site.baseurl }}/assets/images/arduino/level1/led3_c1.png){: .img-thumbnail style="width:300px; vertical-align: top;"} 
 ![]({{ site.baseurl }}/assets/images/arduino/level1/led3_c2.png){: .img-thumbnail style="width:400px; vertical-align: top;"}  
 
 
 # 코드 `| Code`
-{: .alert .alert-info }
+{: .alert .alert-success }
    
 [GITHUB 소스보기]({{ site.repo_ad}}/s1/sketch_led1/sketch_led3.ino){: .btn .btn-primary target="_blank" }
 
@@ -37,7 +37,7 @@ layout: code_import
 
 
 # 실행 `| Run`
-{: .alert .alert-info }
+{: .alert .alert-success }
 
 <iframe width="544" height="306" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=05549C14DD8E706A84616929DE2B9D715323&outKey=V129f5107b070ab440cd2ab2fadaed8d2f0a22ff25bd9e604dfe7ab2fadaed8d2f0a2" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
 

@@ -15669,7 +15669,7 @@ a.text-dark:focus {
     .td-content>dl dd,
     .td-content .footnotes,
     .td-content>.alert {
-        max-width: 80%
+        max-width: 90%
     }
 }
 
@@ -18472,7 +18472,7 @@ html body .md-typeset .headerlink {
 .td-content p,
 .td-content li,
 .td-content td {
-    font-weight: 400
+    font-weight: 400;
 }
 
 .td-content>h1 {
@@ -18504,7 +18504,7 @@ html body .md-typeset .headerlink {
     padding: 0 0 0 1rem;
     margin-bottom: 1rem;
     color: #5e5e5e;
-    border-left: 6px solid #30638e
+    border-left: 6px solid #30638e;
 }
 
 .td-content>ul li,
