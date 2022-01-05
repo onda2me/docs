@@ -36,10 +36,11 @@ layout: code_import
 ![]({{ site.baseurl }}/assets/images/arduino/level1/led_dimming3.png){: .img-thumbnail}  
 
 
-+ Sketch 코드  
++ Sketch 코드    
+
 [GITHUB 소스보기]({{ site.repo_ad}}/s1/sketch_led1/sketch_led1_dimming.ino/sketch_led1_dimming.ino.ino){: .btn .btn-primary target="_blank" }
 <pre id="show1" class="show-json-from-git">소스로딩 실패</pre>
-<script>showJsonFromGit('{{ site.repo_ad_raw }}/s1/sketch_led1/sketch_led1_dimming.ino/sketch_led1_dimming.ino.ino', 'show1', '300px');</script>
+<script>showJsonFromGit('{{ site.repo_ad_raw }}/s1/sketch_led1/sketch_led1_dimming.ino/sketch_led1_dimming.ino.ino', 'show1', '350px');</script>
 
 
 # 실행 `| Run`
