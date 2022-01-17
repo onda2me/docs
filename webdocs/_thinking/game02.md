@@ -50,6 +50,6 @@ title: 게임 만들기 01 - 지구를 지켜라. STEP2. 로켓 공격효과
 ![]({{ site.baseurl }}/assets/images/game/egg01_06.png){: .img-thumbnail }
 
 ## 5. 실행
-+ 공격효과가 추가된 코딩 결과 [예제보기](https://scratch.mit.edu/projects/629430809/){: .btn .btn-primary target="_blank" }    
++ 공격효과가 추가된 코딩 결과 [예제보기](https://scratch.mit.edu/projects/629493337/){: .btn .btn-primary target="_blank" }    
 
 <iframe src="https://scratch.mit.edu/projects/629493337/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
