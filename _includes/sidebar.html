@@ -12,6 +12,8 @@
 
   {% if page.url contains "arduino" %}
   {% assign side_bar = site.data.side-arduino %}
+  {% elsif page.url contains "thinking" %}
+  {% assign side_bar = site.data.side-thinking %}
   {% else %}
   {% assign side_bar = site.data.side-coding %}
   {% endif %}

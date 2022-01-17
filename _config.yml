@@ -82,6 +82,9 @@ collections:
   coding:
     output: true
     permalink: /:collection/:path  
+  thinking:
+    output: true
+    permalink: /:collection/:path  
   arduino:
     output: true
     permalink: /:collection/:path   
@@ -100,6 +103,12 @@ defaults:
   - scope:
       path: ""
       type: "coding"
+    values:
+      layout: docs
+      sidebar: true
+  - scope:
+      path: ""
+      type: "thinking"
     values:
       layout: docs
       sidebar: true

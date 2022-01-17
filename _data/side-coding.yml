@@ -9,24 +9,7 @@
   - title: "따라하기"
     url: "/coding/begin01"
   - title: "활용하기"
-    url: "/coding/begin02"
-    
-- title: "사고력 키우기"
-  url: "/coding/thinking"      
-  links:
-  - title: 01.상수와 변수
-    url: "/coding/thinking"
-  - title: 02.기수법과 진법
-    url: "/coding/thinking02"
-  - title: 03.암호 만들기
-    url: "/coding/thinking03"
-  - title: 04.순차와 반복구조
-    url: "/coding/thinking04"
-  - title: 05.제어문
-    url: "/coding/thinking05"
-  - title: 06.랜덤
-    url: "/coding/thinking06"
-
+    url: "/coding/begin02"     
 
 - title: EBS 소프트웨어 동영상    
   url: "/coding/ebs"

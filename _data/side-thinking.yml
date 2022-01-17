@@ -1,0 +1,31 @@
+
+- title: "사고력 키우기"
+  url: "/thinking/thinking"      
+  links:
+  - title: 01.상수와 변수
+    url: "/thinking/thinking"
+  - title: 02.기수법과 진법
+    url: "/thinking/thinking02"
+  - title: 03.암호 만들기
+    url: "/thinking/thinking03"
+  - title: 04.순차와 반복구조
+    url: "/thinking/thinking04"
+  - title: 05.제어문
+    url: "/thinking/thinking05"
+  - title: 06.랜덤
+    url: "/thinking/thinking06"
+  - title: 08.연산
+    url: "/thinking/thinking07"
+
+- title: "게임만들기-지구를 지켜라"    
+  url: "/thinking/game"
+  links:   
+  - title: "STEP1.게임 기본설정"
+    url: "/thinking/game"  
+  - title: "STEP2.로켓 공격효과"
+    url: "/thinking/game02" 
+
+
+
+
+
