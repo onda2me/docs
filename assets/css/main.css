@@ -486,8 +486,8 @@ h6,
 .h4,
 .h5,
 .h6 {
-    margin-top: 2em;
-    margin-bottom: 0.35em;
+    margin-top: 1em;
+    margin-bottom: 0.25em;
     font-family: inherit;
     font-weight: 500;
     line-height: 1.5;
@@ -496,19 +496,19 @@ h6,
 
 h1,
 .h1 {
-    font-size: 1.55em;
+    font-size: 1.5em;
     font-weight: 700;
 }
 
 h2,
 .h2 {
-    font-size: 1.35em;
+    font-size: 1.3em;
     font-weight: 600;
 }
 
 h3,
 .h3 {
-    font-size: 1.15em;
+    font-size: 1.18em;
     font-weight: 600;
 }
 
@@ -18477,27 +18477,27 @@ html body .md-typeset .headerlink {
 
 .td-content>h1 {
     font-weight: 700;
-    margin-bottom: 1rem
+    margin-bottom: 0.75rem
 }
 
 .td-content>h2 {
-    margin-bottom: 1rem
+    margin-bottom: 0.75rem
 }
 
 .td-content>h2:not(:first-child) {
-    margin-top: 3rem
+    margin-top: 1rem
 }
 
 .td-content>h2+h3 {
-    margin-top: 1rem
+    margin-top: 0.5rem
 }
 
 .td-content>h3,
 .td-content>h4,
 .td-content>h5,
 .td-content>h6 {
-    margin-bottom: 1rem;
-    margin-top: 2rem
+    margin-bottom: 0.5rem;
+    margin-top: 0.75rem
 }
 
 .td-content>blockquote {

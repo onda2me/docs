@@ -24,6 +24,10 @@
     url: "/thinking/game"  
   - title: "STEP2.로켓 공격효과"
     url: "/thinking/game02" 
+  - title: "STEP3.점수 기능"
+    url: "/thinking/game03" 
+  - title: "STEP4.레벨 기능"
+    url: "/thinking/game04" 
 
 
 
