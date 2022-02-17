@@ -41,5 +41,5 @@ title: 게임 만들기 01 - 지구를 지켜라. STEP4. 레벨 기능
 ![]({{ site.baseurl }}/assets/images/game/egg01_17.png){: .img-thumbnail }    
 
 ## 4. 실행
-+ 안내문구가 추가된 코딩 결과 [예제보기](https://scratch.mit.edu/projects/631850294/){: .btn .btn-primary target="_blank" }    
-<iframe src="https://scratch.mit.edu/projects/631850294/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
++ 안내문구가 추가된 코딩 결과 [예제보기](https://scratch.mit.edu/projects/633666587/){: .btn .btn-primary target="_blank" }    
+<iframe src="https://scratch.mit.edu/projects/633666587/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>

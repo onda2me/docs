@@ -683,12 +683,12 @@ pre code {
     color: inherit;
     word-break: normal
 }
-
+/*
 .pre-scrollable {
     max-height: 340px;
     overflow-y: scroll
 }
-
+*/
 .container {
     width: 100%;
     padding-right: 15px;
@@ -15669,7 +15669,7 @@ a.text-dark:focus {
     .td-content>dl dd,
     .td-content .footnotes,
     .td-content>.alert {
-        max-width: 90%
+        max-width: 95%
     }
 }
 
@@ -17998,7 +17998,7 @@ a.text-dark:focus {
     color: inherit;
     padding: .2em .4em;
     margin: 0;
-    font-size: 85%;
+    font-size: 87.5%;
     word-break: normal;
     background-color: rgba(0, 0, 0, .05);
     border-radius: .25rem
@@ -18810,6 +18810,50 @@ footer {
         visibility: hidden
     }
 }
+
+
+
+
+.notice {
+    font-weight: 500;
+    background: #fff;
+    color: inherit;
+    padding: 1rem;
+    border-radius: 4px;
+    background-clip: border-box;    
+    background-color: #f8f9fa;
+    /* border: 1px solid #6f777d; */
+    width: 100%;   
+    border: 1px solid rgba(0, 0, 0, .125); 
+}
+
+.notice-primary {
+    border: 1px solid #6f777d;
+}
+
+.notice-warning {
+    border: 1px solid #ffb822;
+}
+
+  /*
+    --primary: #30638e;
+    --secondary: #D95040;
+    --success: #13af9f;
+    --info: #5578eb;
+    --warning: #ffb822;
+    --danger: #ED6A5A;
+    --light: #D3F3EE;
+    --dark: #403F4C;
+
+    $primary-color: #6f777d !default;
+    $success-color: #3fa63f !default;
+    $warning-color: #d67f05 !default;
+    $danger-color: #ee5f5b !default;
+    $info-color: #3b9cba !default;
+    $focus-color: $primary-color !default;
+    $active-color: mix(#fff, $primary-color, 80%) !default;
+*/
+  
 
 .show-json-from-git {
     background: #cfcfcf;
