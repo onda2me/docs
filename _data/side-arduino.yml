@@ -20,7 +20,9 @@
   - title: "온습도 센서"
     url: "/arduino/sensor_01"    
   - title: "텍스트 LCD"
-    url: "/arduino/text_lcd01" 
+    url: "/arduino/text_lcd01"   
+  - title: "텍스트 LCD와 온습도 센서"
+    url: "/arduino/text_lcd_sensor" 
   
 
 
