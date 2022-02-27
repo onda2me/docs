@@ -57,3 +57,9 @@ layout: code_import
  (I2C의 주소값은  부품마다 다를 수 있다.)    
 
 ![]({{ site.baseurl }}/assets/images/arduino/level1/lcd_05.png){: .img-thumbnail style="width:500px; vertical-align: top;"}
+
+
+[LCD I2C Scanner 정보](http://playground.arduino.cc/Main/I2cScanner){: .btn .btn-primary target="_blank" } http://playground.arduino.cc/Main/I2cScanner       
+    
+
+[Scanner 아두이노 파일]({{ site.repo_ad}}/s1/sketch_i2c_scannin_g/sketch_i2c_scannin_g.ino){: .btn .btn-primary target="_blank" } {{ site.repo_ad}}/s1/sketch_i2c_scannin_g/sketch_i2c_scannin_g.ino
