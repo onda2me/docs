@@ -18,7 +18,9 @@
   - title: "LED 밝기 조절"
     url: "/arduino/level1_dimming"     
   - title: "온습도 센서"
-    url: "/arduino/sensor_01" 
+    url: "/arduino/sensor_01"    
+  - title: "텍스트 LCD"
+    url: "/arduino/text_lcd01" 
   
 
 
