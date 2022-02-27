@@ -16,7 +16,9 @@
   - title: "LED 3색 신호등"
     url: "/arduino/level1_led3"   
   - title: "LED 밝기 조절"
-    url: "/arduino/level1_dimming"  
+    url: "/arduino/level1_dimming"     
+  - title: "온습도 센서"
+    url: "/arduino/sensor_01" 
   
 
 
