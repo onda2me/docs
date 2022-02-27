@@ -29,6 +29,7 @@ layout: code_import
 {: .alert .alert-success }
 
 |우노보드 X 1개| 온습도센서 X 1개 | 
+|![]({{ site.baseurl }}/assets/images/arduino/level1/uno.png) | ![]({{ site.baseurl }}/assets/images/arduino/level1/sensor_01_01.jpg) | |
 
 
 # 알고리즘 `| Algorithm`
