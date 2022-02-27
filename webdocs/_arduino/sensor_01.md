@@ -58,4 +58,15 @@ layout: code_import
 ![]({{ site.baseurl }}/assets/images/arduino/level1/sensor_01_02.jpg){: .img-thumbnail style="width:320px; vertical-align: top;"}
 ![]({{ site.baseurl }}/assets/images/arduino/level1/sensor_01_03.png){: .img-thumbnail style="width:500px; vertical-align: top;"}
 
+# 문제해결 `| Trouble Shooting`
+{: .alert .alert-success }
 
++ 업로드를 할때 아래와 같은 오류코드가 뜨면 DHT 헤더 정보가 없다는 것이다.    
++ DHT를 사용하기 위해 DHT 관련 라이브러리를 추가해야 한다.    
+
+
+1. DHT로 검색하여 DHT sensor를 설치한다.    
+​![]({{ site.baseurl }}/assets/images/arduino/level1/sensor_01_04.png){: .img-thumbnail style="width:500px; vertical-align: top;"}
+
+2. Adafruit Unified Sensor 를 설치한다.    
+![]({{ site.baseurl }}/assets/images/arduino/level1/sensor_01_05.png){: .img-thumbnail style="width:500px; vertical-align: top;"}
