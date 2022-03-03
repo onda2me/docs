@@ -60,5 +60,5 @@ S4A는 아두이노(스케치)와 통신을 하며 블록코딩을 실행하기�
 ![]({{ site.baseurl }}/assets/images/arduino/down_s4a05_1.png){: .img-thumbnail style="width:600px"}
 
 ### 3. 보드 인식완료
-![]({{ site.baseurl }}/assets/images/arduino/board_2.png){: .img-thumbnail style="width:600px"}
+![]({{ site.baseurl }}/assets/images/arduino/board_04.png){: .img-thumbnail style="width:600px"}
 
