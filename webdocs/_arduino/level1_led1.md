@@ -34,17 +34,17 @@ R(저항) = V(전압) / I(전류)
 # LED 깜박이기 예제    
 >> LED가 1초동안 켜졌다가 1초동안 꺼졌다가를 반복하게 해 보자.    
 
-# 준비물 `| Preparations`
+## 준비물 `| Preparations`
 {: .alert .alert-success }   
 
 |우노보드 X 1개| LED X 1개 | 저항 X 1개|    
 
-# 회로도 `| Circuit diagram`
+## 회로도 `| Circuit diagram`
 {: .alert .alert-success }
 ![]({{ site.baseurl }}/assets/images/arduino/level1/led1_01.png){: .img-thumbnail style="width:350px"}
 ![]({{ site.baseurl }}/assets/images/arduino/level1/led1_02.jpg){: .img-thumbnail style="width:350px"}
 
-# 알고리즘 `| Algorithm`
+## 알고리즘 `| Algorithm`
 {: .alert .alert-success }
 
 빨간색 LED가 1초동안 켜졌다가 1초동안 꺼졌다가를 반복한다.    
@@ -52,12 +52,12 @@ R(저항) = V(전압) / I(전류)
 + 빨간색 LED는 1번 디지털핀에 연결한다.
 + 회로는 전원 -> 저항 -> LED -> GND의 순서로 연결한다.
 
-# 코드 `| Code`
+## 코드 `| Code`
 {: .alert .alert-success }
 
 ![]({{ site.baseurl }}/assets/images/arduino/led1_03.png){: .img-thumbnail style="width:350px"}
 
-# 실행 `| Run`
+## 실행 `| Run`
 {: .alert .alert-success }
 
 ![]({{ site.baseurl }}/assets/images/arduino/led1_blink3.gif){: .img-thumbnail}   
