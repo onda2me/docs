@@ -30,7 +30,7 @@ layout: code_import
 ## 알고리즘 `| Algorithm`
 {: .alert .alert-success }
 
-+ 부저를 연결하여 도, 레, 미, 파, 솔, 라, 시, 도 음을 연주한다.    
++ 피에노 부저를 연결하여 도, 레, 미, 파, 솔, 라, 시, 도 음을 연주한다.    
 
 ## 회로도 `| Circuit diagram`
 {: .alert .alert-success }
@@ -46,7 +46,6 @@ layout: code_import
 ## 코드 `| Code`
 {: .alert .alert-success }
 
->> 피에노 부저를 이용하여 '도, 레, 미, 파, 솔, 라, 시, 도'를 연주해 보자.     
 
 [GITHUB 소스보기]({{ site.repo_ad}}/s1/sketch_buzzer_doremi/sketch_buzzer_doremi.ino){: .btn .btn-primary target="_blank" }
 
@@ -61,10 +60,12 @@ layout: code_import
 # -----------------------    
 
 # 피에조 부저 음악연주
+
+>> 피에노 부저를 이용하여 '학교종이 땡땡땡'을 연주해 보자.    
+
 ## 코드 `| Code`
 {: .alert .alert-success }
    
->> 피에노 부저를 이용하여 '학교종이 땡땡땡'을 연주해 보자.    
 
 [GITHUB 소스보기]({{ site.repo_ad}}/s1/sketch_buzzer_music/sketch_buzzer_music.ino){: .btn .btn-primary target="_blank" }
 
