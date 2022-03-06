@@ -3,6 +3,7 @@ title: Begin Arduino - 온/습도 센서
 layout: code_import
 ---
 
+# 온/습도 센서
 
 >> **온도**는 뜨겁고 찬 정도를 수치로 나타낸 것이고, **습도**는 공기중에 포함된 수증기의 비율이다.    
 **섭씨 온도**는 물의 어는점을 0°C로 끓는점을 100°C로 하여 그사이의 값을 수치화하여 나타내는 방식이다.    
@@ -25,26 +26,26 @@ layout: code_import
     - VCC -> 3.3V   
 
 
-# 준비물 `| Preparations`
+## 준비물 `| Preparations`
 {: .alert .alert-success }
 
 |우노보드 X 1개| 온습도센서 X 1개 | 
 |![]({{ site.baseurl }}/assets/images/arduino/level1/uno.png) | ![]({{ site.baseurl }}/assets/images/arduino/level1/sensor_01_01.jpg) | |
 
 
-# 알고리즘 `| Algorithm`
+## 알고리즘 `| Algorithm`
 {: .alert .alert-success }
 
 + 온습도 센서를 연결하면, 현재의 온/습도 정보를 시리얼창에 출력한다.    
 + 빨간색은 전원, 노란색은 2번 아날로그핀, 검정색은 그라운드에 연결한다.   
  
 
-# 회로도 `| Circuit diagram`
+## 회로도 `| Circuit diagram`
 {: .alert .alert-success }
 
 ![]({{ site.baseurl }}/assets/images/arduino/level1/sensor_01_011.jpg){: .img-thumbnail style="width:400px;"}     
 
-# 코드 `| Code`
+## 코드 `| Code`
 {: .alert .alert-success }
    
 [GITHUB 소스보기]({{ site.repo_ad}}/s1/sketch_sensor_dht/sketch_sensor_dht.ino){: .btn .btn-primary target="_blank" }
@@ -53,13 +54,13 @@ layout: code_import
 <script>showJsonFromGit('{{ site.repo_ad_raw }}/s1/sketch_sensor_dht/sketch_sensor_dht.ino', 'show1', '500px');</script>
 
 
-# 실행 `| Run`
+## 실행 `| Run`
 {: .alert .alert-success }
 
 ![]({{ site.baseurl }}/assets/images/arduino/level1/sensor_01_02.jpg){: .img-thumbnail style="width:320px; vertical-align: top;"}
 ![]({{ site.baseurl }}/assets/images/arduino/level1/sensor_01_03.png){: .img-thumbnail style="width:500px; vertical-align: top;"}
 
-# 문제해결 `| Trouble Shooting`
+## 문제해결 `| Trouble Shooting`
 {: .alert .alert-success }
 
 + 업로드를 할때 아래와 같은 오류코드가 뜨면 DHT 헤더 정보가 없다는 것이다.    

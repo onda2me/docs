@@ -7,8 +7,6 @@ layout: code_import
 LCD화면의 오른쪽에서 왼쪽으로 폭탄(B) 이 이동하고, 폭탄(B)이 0에 가까이 오면 택트 스위치를 눌러 0을 점프시켜 폭탄을 피하는 게임이다.    
 폭탄을 피하면 점수가 1점 올라간다.
 
-
-
 + 텍스트 LCD 1602 12C    
 ![]({{ site.baseurl }}/assets/images/arduino/level1/lcd_01.png)    
 

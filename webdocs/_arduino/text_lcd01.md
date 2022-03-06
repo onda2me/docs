@@ -3,6 +3,8 @@ title: Begin Arduino - 텍스트 LCD 1602 12C
 layout: code_import
 ---
 
+# 텍스트 LCD
+
 >> 텍스트 LCD 1602 12C를 사용하여 Hello World를 출력해보자.
 
 
@@ -13,25 +15,25 @@ layout: code_import
     - I2C 인터페이스 사용하여 2개의 핀으로 LCD 동작 가능    
     - 가변저항을 통하여 LCD 밝기 조절 가능    
 
-# 준비물 `| Preparations`
+## 준비물 `| Preparations`
 {: .alert .alert-success }
 
 |우노보드 X 1개 | 텍스트 LCD 1602 12C X 1개 | 
 
 
 
-# 알고리즘 `| Algorithm`
+## 알고리즘 `| Algorithm`
 {: .alert .alert-success }
 
 + LCD를 연결하면 Hello World를 출력한다.    
 
-# 회로도 `| Circuit diagram`
+## 회로도 `| Circuit diagram`
 {: .alert .alert-success }
 
 ![]({{ site.baseurl }}/assets/images/arduino/level1/lcd_02_01.jpg){: .img-thumbnail style="width:450px; vertical-align: top;"} 
 ![]({{ site.baseurl }}/assets/images/arduino/level1/lcd_02_02.jpg){: .img-thumbnail style="width:170px; vertical-align: top;"}     
 
-# 코드 `| Code`
+## 코드 `| Code`
 {: .alert .alert-success }
    
 [GITHUB 소스보기]({{ site.repo_ad}}/s1/sketch_lcd/sketch_lcd.ino){: .btn .btn-primary target="_blank" }
@@ -40,12 +42,12 @@ layout: code_import
 <script>showJsonFromGit('{{ site.repo_ad_raw }}/s1/sketch_lcd/sketch_lcd.ino', 'show1', '500px');</script>
 
 
-# 실행 `| Run`
+## 실행 `| Run`
 {: .alert .alert-success }
 
 ![]({{ site.baseurl }}/assets/images/arduino/level1/lcd_03.jpg){: .img-thumbnail style="width:400px; vertical-align: top;"}
 
-# 문제해결 `| Trouble Shooting`
+## 문제해결 `| Trouble Shooting`
 {: .alert .alert-success }
 
 >> LCD 화면이 나오지 않을 경우    
