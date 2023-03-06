@@ -390,4 +390,11 @@ solution 메소드는 계단 게임을 마친 후에 A가 계단 위 몇 번째 
 #### 예시 설명
 '+'를 기준으로 앞의 숫자는 123이고 뒤의 숫자는 12이므로 두 숫자를 더하면 135가 됩니다.
 
+# 문제원본 :
++ [ybmit](https://www.ybmit.com/cos_pro/cos_pro_r_test.jsp) 
+
+# 참고자료 :    
+
++ [https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84%EB%B2%95](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84%EB%B2%95) 
+expCategoryId=60010) 
 
