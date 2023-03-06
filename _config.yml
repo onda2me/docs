@@ -88,6 +88,9 @@ collections:
   arduino:
     output: true
     permalink: /:collection/:path   
+  cos:
+    output: true
+    permalink: /:collection/:path 
   blog:
     output: true
     permalink: /:collection/:path  
@@ -115,6 +118,13 @@ defaults:
   - scope:
       path: ""
       type: "arduino"
+    values:
+      layout: docs
+      sidebar: true      
+
+  - scope:
+      path: ""
+      type: "cos"
     values:
       layout: docs
       sidebar: true      

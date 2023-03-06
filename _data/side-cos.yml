@@ -1,0 +1,34 @@
+
+- title: "CosPro Java 자격증"
+  url: "/cos/text01"      
+  links:
+  - title: CosPro 1급 1차
+    url: "/cos/cospro-01-01"  
+  - title: CosPro 1급 2차
+    url: "/cos/cospro-01-02" 
+  - title: CosPro 1급 3차
+    url: "/cos/cospro-01-03" 
+  - title: CosPro 1급 4차
+    url: "/cos/cospro-01-04" 
+  - title: CosPro 1급 5차
+    url: "/cos/cospro-01-05" 
+  - title: CosPro 1급 6차
+    url: "/cos/cospro-01-06"                     
+  - title: 01.문제
+    url: "/cos/text01"
+  - title: 02.문제
+    url: "/cos/text02"
+  - title: 03.문제
+    url: "/cos/text03"
+
+#- title: "게임만들기-지구를 지켜라"    
+  #url: "/thinking/game"
+  #links:   
+  #- title: "STEP1.게임 기본설정"
+  # url: "/thinking/game"  
+
+
+
+
+
+
