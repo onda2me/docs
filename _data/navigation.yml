@@ -4,8 +4,8 @@
   url: /thinking/thinking  
 - title: 아두이노
   url: /arduino/begin
-- title: 자격증
-  url: /cos/cospro-01-01
+#- title: 자격증
+#  url: /cos/cospro-01-01
 #- title: Scratch
   #external_url: https://scratch.mit.edu/
 
