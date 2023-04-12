@@ -502,24 +502,26 @@ h1,
 
 h2,
 .h2 {
-    font-size: 1.3em;
+    font-size: 1.35em;
     font-weight: 600;
 }
 
 h3,
 .h3 {
-    font-size: 1.18em;
+    font-size: 1.25em;
     font-weight: 600;
 }
 
 h4,
 .h4 {
-    font-size: 1.1em
+    font-size: 1.12em;
+    font-weight: 600;
 }
 
 h5,
 .h5 {
-    font-size: 1.05em
+    font-size: 1.07em;
+    font-weight: 600;
 }
 
 h6,
@@ -18051,6 +18053,7 @@ a.text-dark:focus {
     background: #30638e;
     min-height: 4rem;
     margin: 0;
+    padding: 0;
     z-index: 32
 }
 
@@ -18143,16 +18146,17 @@ html body .md-typeset .headerlink {
     .td-navbar .td-navbar-nav-scroll {
         max-width: 100%;
         height: 2.5rem;
-        margin-top: .25rem;
+        margin: 0;
+        padding: 0;
         overflow: hidden;
-        font-size: .875rem
     }
     .td-navbar .td-navbar-nav-scroll .nav-link {
-        padding-right: .25rem;
-        padding-left: 0
+        padding: 0 .5rem;
+        font-size: 0.92rem;
     }
     .td-navbar .td-navbar-nav-scroll .navbar-nav {
-        padding-bottom: 2rem;
+        padding: 0;
+        margin: 0;        
         overflow-x: auto;
         white-space: nowrap;
         -webkit-overflow-scrolling: touch
@@ -18254,6 +18258,7 @@ html body .md-typeset .headerlink {
 }
 
 .td-sidebar__toggle {
+    font-size: 2rem;
     line-height: 1;
     color: #222;
     margin: 1rem

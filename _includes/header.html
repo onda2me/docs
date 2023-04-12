@@ -4,15 +4,15 @@
       <span class="navbar-logo pr-2"><img src="{{ site.baseurl }}/{{ site.logo }}" alt="logo" class="mb-1"/></span><!-- {include logo.svg } --><span class="h3 font-weight-bold">{{ site.title }}</span>
     </a>
     <div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar" >
-      <ul class="navbar-nav mt-2 mt-lg-0">{% for link in site.data.navigation %}
-        <li class="nav-item mr-4 mb-2 mb-lg-0">
+      <ul class="navbar-nav">{% for link in site.data.navigation %}
+        <li class="nav-item mb-2 mb-lg-0">
           <a class="nav-link" href="{% if link.url %}{{ site.baseurl }}{{ link.url }}{% else %}{{ link.external_url }}{% endif %}"{% if link.external_url %} target="_blank"{% endif %} ><span>{{ link.title }}</span></a>
-        </li>{% endfor %}{% if site.repo %}
+        </li>{% endfor %}{% if site.repo %} <!--
         <li class="nav-item mr-4 mb-2 mb-lg-0">
           <a class="nav-link" href="{{ site.repo }}" target="_blank"><span>GitHub</span></a>
-        </li>{% endif %}{% if site.url %}
+        </li>-->{% endif %}{% if site.url %}
         <li class="nav-item mr-4 mb-2 mb-lg-0">
-          <a class="nav-link" href="{{ site.blog_url}}" target="_blank"><span>Blog</span></a>
+          <a class="nav-link" href="{{ site.blog_url}}" target="_blank"><span>블로그</span></a>
         </li> {% endif %} 
       </ul>
     </div>
