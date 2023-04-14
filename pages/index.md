@@ -41,16 +41,24 @@ permalink: /
 
 ##  1. 점프게임 
   - 스페이스바 [소스보기](https://scratch.mit.edu/projects/608097887/editor){: .btn .btn-primary target="_blank"}  
-<iframe src="https://scratch.mit.edu/projects/608097887/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<div class="if-containerm">
+<iframe src="https://scratch.mit.edu/projects/608097887/embed" allowtransparency="true" width="485" height="402" class="if-video" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 
 ##  2. 별잡기게임 
   - 마우스 [소스보기](https://scratch.mit.edu/projects/608038472/editor/){: .btn .btn-primary target="_blank"}
+<div class="if-containerm">
 <iframe src="https://scratch.mit.edu/projects/608038472/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 
 ##  3. 핑퐁게임 
   - 좌우화살표 [소스보기](https://scratch.mit.edu/projects/601945728/editor){: .btn .btn-primary target="_blank"}
+<div class="if-containerm">
 <iframe src="https://scratch.mit.edu/projects/601945728/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 
 ##  4. Tunnel Rider 
   - 좌우화살표 [소스보기](https://scratch.mit.edu/projects/48077906/){: .btn .btn-primary target="_blank"}
+<div class="if-containerm">
 <iframe src="https://scratch.mit.edu/projects/48077906/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
