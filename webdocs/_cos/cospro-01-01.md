@@ -4,6 +4,9 @@ tags:
  - cospro
 ---
 
+```
+YBMIT 사이트에 게시된 Cos Pro 1급 문제들의 상세 풀이입니다.    
+```
 # 문제1
 어느 누군가가 타임머신을 타고 과거로 가서 숫자 0이 없는 수 체계를 전파했습니다.    
 역사가 바뀌어 이제 사람들의 의식 속엔 0이란 숫자가 사라졌습니다.    
@@ -31,6 +34,14 @@ tags:
 
 #### 예시 설명
 9,949,999에 1을 더하면 9,950,000이지만 0은 존재하지 않으므로 9,951,111이 됩니다.    
+
+
+## 문제1 풀이
+```
+0이 없는 숫자 체계는 1~9까지의 숫자만 존재하므로 10진수 -> 9진수의 개념으로 이해하면 될 것 같다.
+```
+
+
 
 # 문제2
 
@@ -392,11 +403,11 @@ solution 메소드는 계단 게임을 마친 후에 A가 계단 위 몇 번째 
 
 ---
 
-# 문제원본 :
-+ [ybmit](https://www.ybmit.com/cos_pro/cos_pro_r_test.jsp) 
+## 문제원본 :
++ [ybmit : https://www.ybmit.com/cos_pro/cos_pro_r_test.jsp](https://www.ybmit.com/cos_pro/cos_pro_r_test.jsp) 
 
-# 참고자료 :    
+## 참고자료 :    
 
-+ [https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84%EB%B2%95](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84%EB%B2%95) 
-expCategoryId=60010) 
++ [wikipedia : https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84%EB%B2%95](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84%EB%B2%95) 
+
 

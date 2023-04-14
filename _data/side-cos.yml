@@ -4,8 +4,8 @@
   links:
   - title: CosPro 1급 1차
     url: "/cos/cospro-01-01"  
-  - title: CosPro 1급 2차
-    url: "/cos/cospro-01-02" 
+  #- title: CosPro 1급 2차
+    #url: "/cos/cospro-01-02" 
   #- title: CosPro 1급 3차
   #  url: "/cos/cospro-01-03" 
   #- title: CosPro 1급 4차

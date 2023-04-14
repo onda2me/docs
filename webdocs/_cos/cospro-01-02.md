@@ -417,6 +417,10 @@ A 사이트에서 아래 조건에 맞는 게시글을 **최초**로 작성하�
 #### 예시 설명
 1은 줄이지 않으며, 연속해서 붙어있는 0만 하나의 0으로 줄이면 됩니다.
 
-# 문제원본 :
-+ [ybmit](https://www.ybmit.com/cos_pro/cos_pro_r_test.jsp) 
+---
+
+## 문제원본 :
++ [ybmit : https://www.ybmit.com/cos_pro/cos_pro_r_test.jsp](https://www.ybmit.com/cos_pro/cos_pro_r_test.jsp) 
+
+
 
