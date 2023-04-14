@@ -38,6 +38,6 @@ title: 사고력 키우기 05 - 제어문
 2. 여러명의 점수목록을 변수 리스트로 만들어 보자
 2. 점수에 따라 성적목록을 변수 리스트로 만들어 보자.
 ```
-<div class="if-container">
+<div class="if-containerm">
 <iframe src="https://scratch.mit.edu/projects/617918416/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>

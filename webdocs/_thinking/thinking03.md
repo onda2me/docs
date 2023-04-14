@@ -36,7 +36,7 @@ title: 사고력 키우기 03 - 이진법을 이용한 암호만들기
 
 >> 실행해보기    
 
-<div class="if-container">
+<div class="if-containerm">
 <iframe src="https://scratch.mit.edu/projects/619908484/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 

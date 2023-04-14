@@ -82,7 +82,7 @@ title: 사고력 키우기 04 - 순차와 반복구조
 ```
 
 >> 이외 순차와 반복구문을 이용한 예제       
-<div class="if-container">
+<div class="if-containerm">
 <iframe src="https://scratch.mit.edu/projects/617168468/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 

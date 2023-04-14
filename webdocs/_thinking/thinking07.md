@@ -58,7 +58,7 @@ title: 사고력 키우기 08 - 연산
 ![]({{ site.baseurl }}/assets/images/scratch/oper_07.png){: .img-thumbnail }
 
 ## 3.실행하기
-<div class="if-container">
+<div class="if-containerm">
 <iframe src="https://scratch.mit.edu/projects/626460384/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 

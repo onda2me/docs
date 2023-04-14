@@ -27,7 +27,7 @@ title: 게임 만들기 01 - 지구를 지켜라. STEP4. 레벨 기능
 ## 2. 지금까지 코딩결과 실행
 + 레벨이 추가된 코딩 결과 [예제보기](https://scratch.mit.edu/projects/630074962/){: .btn .btn-primary target="_blank" }    
 
-<div class="if-container">
+<div class="if-containerm">
 <iframe src="https://scratch.mit.edu/projects/630074962/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
@@ -43,6 +43,6 @@ title: 게임 만들기 01 - 지구를 지켜라. STEP4. 레벨 기능
 
 ## 4. 실행
 + 안내문구가 추가된 코딩 결과 [예제보기](https://scratch.mit.edu/projects/633666587/){: .btn .btn-primary target="_blank" }    
-<div class="if-container">
+<div class="if-containerm">
 <iframe src="https://scratch.mit.edu/projects/633666587/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>

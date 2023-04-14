@@ -34,7 +34,7 @@ title: 사고력 키우기 06 - 랜덤
 
 ## 3.실행하기
 
-<div class="if-container">
+<div class="if-containerm">
 <iframe src="https://scratch.mit.edu/projects/624162439/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
@@ -44,7 +44,7 @@ title: 사고력 키우기 06 - 랜덤
 2. 동전을 클릭하면 동전의 앞면/뒷면이 임의로 나오도록 만들어 보자
 ```
 
-<div class="if-container">
+<div class="if-containerm">
 <iframe src="https://scratch.mit.edu/projects/619842534/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
