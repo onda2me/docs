@@ -26,5 +26,7 @@ title: 게임 만들기 01 - 지구를 지켜라. STEP3. 점수 기능
 ## 3. 실행
 + 점수가 추가된 코딩 결과 [예제보기](https://scratch.mit.edu/projects/629554845/){: .btn .btn-primary target="_blank" }    
 
-<iframe src="https://scratch.mit.edu/projects/629554845/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<div class="if-container">
+<iframe src="https://scratch.mit.edu/projects/629554845/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 

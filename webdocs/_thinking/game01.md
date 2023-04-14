@@ -43,4 +43,6 @@ permalink: /thinking/game
 ## 5. 실행
 + 달걀공격과 로켓제어 기능이 추가된 코딩 결과 [예제보기](https://scratch.mit.edu/projects/629430809/){: .btn .btn-primary target="_blank" }    
 
-<iframe src="https://scratch.mit.edu/projects/629430809/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<div class="if-container">
+<iframe src="https://scratch.mit.edu/projects/629430809/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>

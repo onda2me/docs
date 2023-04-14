@@ -36,7 +36,9 @@ title: 사고력 키우기 03 - 이진법을 이용한 암호만들기
 
 >> 실행해보기    
 
-<iframe src="https://scratch.mit.edu/projects/619908484/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<div class="if-container">
+<iframe src="https://scratch.mit.edu/projects/619908484/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 
 ## 1.알고리즘 생각하기
 
@@ -73,5 +75,7 @@ Hint: 공의 자리수 = 공의 번호 = 5개변수 번호를 통일하면 알�
 1. 이 프로그램과 반대로 알파벳 문자를 10진수로 변환 해보자.
 2. 2개이상의 알파벳으로 구성된 단어를 보여주도록 해보자
 ```
-<iframe src="https://scratch.mit.edu/projects/609105285/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<div class="if-container">
+<iframe src="https://scratch.mit.edu/projects/609105285/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
     

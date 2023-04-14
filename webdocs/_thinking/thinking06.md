@@ -33,13 +33,20 @@ title: 사고력 키우기 06 - 랜덤
 ![]({{ site.baseurl }}/assets/images/scratch/random_03.png){: .img-thumbnail }
 
 ## 3.실행하기
-<iframe src="https://scratch.mit.edu/projects/624162439/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+<div class="if-container">
+<iframe src="https://scratch.mit.edu/projects/624162439/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 
 ## 4.도전하기
 ```
 1. 동전 던지기 게임을 만들어 보자.
 2. 동전을 클릭하면 동전의 앞면/뒷면이 임의로 나오도록 만들어 보자
 ```
-<iframe src="https://scratch.mit.edu/projects/619842534/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+<div class="if-container">
+<iframe src="https://scratch.mit.edu/projects/619842534/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
 
 

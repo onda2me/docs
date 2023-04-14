@@ -81,6 +81,8 @@ title: 사고력 키우기 04 - 순차와 반복구조
 2. 월요일 ~ 일요일이 계속 반복되므로 반복구조를 이용하여 만들어 보자.
 ```
 
->> 이외 순차와 반복구문을 이용한 예제     
-<iframe src="https://scratch.mit.edu/projects/617168468/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>   
+>> 이외 순차와 반복구문을 이용한 예제       
+<div class="if-container">
+<iframe src="https://scratch.mit.edu/projects/617168468/embed" allowtransparency="true" width="485" height="402" class="if-video"  frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 
