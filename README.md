@@ -9,6 +9,6 @@
    - [onda2me.github.io/docs](https://onda2me.github.io/docs/)  
    
 + ⚡ 블로그 내용
-  - scratch 
-  - arduino
-  - block coding
+  - [scratch](https://onda2me.github.io/docs/coding/begin)
+  - [arduino](https://onda2me.github.io/docs/arduino/begin)
+  - [block coding](https://onda2me.github.io/docs/thinking/thinking)
