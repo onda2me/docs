@@ -11,6 +11,12 @@
   - title: "활용하기"
     url: "/coding/begin02"     
 
+- title: "앱인벤터"
+  url: "/coding/appinventor01"   
+  links:   
+  - title: "앱인벤터 따라하기"
+    url: "/coding/appinventor01"   
+
 - title: EBS 소프트웨어 동영상    
   url: "/coding/ebs"
   links:   
