@@ -29,7 +29,8 @@ title: Begin Arduino - 아두이노 개발환경 설정
 ![]({{ site.baseurl }}/assets/images/arduino/board_02.png){: .img-thumbnail style="width:600px"}   
 
 ### 5. 예제 실행
-파일 - 예제 - 01.Basics - Blink를 선택하여 예제파일을 연다.
+파일 - 예제 - 01.Basics - Blink를 선택하여 예제파일을 연다.    
+업로드 한다.
 
 ![]({{ site.baseurl }}/assets/images/arduino/board_03.png){: .img-thumbnail style="width:600px"}   
 

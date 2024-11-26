@@ -19,12 +19,14 @@
     url: "/arduino/level1_dimming"     
   - title: "온습도 센서"
     url: "/arduino/sensor_01"    
-  - title: "텍스트 LCD"
+  - title: "텍스트LCD"
     url: "/arduino/text_lcd01"   
-  - title: "텍스트 LCD와 온습도 센서"
+  - title: "텍스트LCD와 온습도센서"
     url: "/arduino/text_lcd_sensor"   
   - title: "피에조 부저"
-    url: "/arduino/buzzer10"
+    url: "/arduino/buzzer10" 
+# - title: "텍스트 LCD와 택트스위치 게임"
+#     url: "/arduino/text_lcd_switch"       
   
 
 
